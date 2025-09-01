@@ -1,6 +1,5 @@
 # 🤖 Simple LinkedIn Easy Apply Automation
 
-A clean, standalone script that stores your profile data locally and automatically applies to LinkedIn Easy Apply jobs. No backend, no API - just a simple Python script that does the job!
 
 ## 🎯 **What This Does**
 
